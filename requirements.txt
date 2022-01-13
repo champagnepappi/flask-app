@@ -18,7 +18,7 @@ matplotlib==1.5.1
 ndg-httpsclient==0.4.0
 numpy==1.11.0
 pbr==1.8.0
-Pillow==3.1.2
+Pillow==9.0.0
 pyasn1==0.1.9
 PyAudio==0.2.8
 Pygments==2.1
