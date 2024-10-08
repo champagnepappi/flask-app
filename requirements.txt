@@ -33,7 +33,7 @@ six==1.10.0
 SQLAlchemy==1.0.11
 stevedore==1.12.0
 unity-lens-photos==1.0
-urllib3==1.13.1
+urllib3==1.26.19
 virtualenv==15.0.1
 virtualenv-clone==0.2.5
 virtualenvwrapper==4.3.1
