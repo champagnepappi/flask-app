@@ -21,7 +21,7 @@ pbr==1.8.0
 Pillow==9.3.0
 pyasn1==0.1.9
 PyAudio==0.2.8
-Pygments==2.1
+Pygments==2.7.4
 pygobject==3.20.0
 pyOpenSSL==0.15.1
 pyparsing==2.0.3
